@@ -1,4 +1,4 @@
-## Good Midnight 🪄
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F776D0&width=435&lines=Good+Midnight)](https://git.io/typing-svg)
 
 I believe there needn't a meaning of life.
 
