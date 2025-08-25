@@ -14,4 +14,6 @@ I believe in **the Dao**.
 
 Still, I believe in **pragmatic idealism**.
 
+A list of tools I employ:
+
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,kali,apple,windows,cs,cpp,dart,html,js,css,py,r,regex,swift,dotnet,flutter,qt,tailwind,anaconda,pytorch,sklearn,tensorflow,mysql,sqlite,blender,figma,vscode,pycharm,git,github,firebase,vercel,latex,md,notion,obsidian)](https://skillicons.dev)
